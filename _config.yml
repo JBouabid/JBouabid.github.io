@@ -10,17 +10,16 @@
 ############################
 
 # Name of website
-title: My website
+title: Simple Load Model for Small Wind Turbines 
 
 # Your name to show in the footer
-author: Some Person
-
+author: Jihane Bouabid
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "About the SLM"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
